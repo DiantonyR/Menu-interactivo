@@ -1,0 +1,62 @@
+[
+  {
+    "codigoProducto": "1",
+    "nombreProducto": "Camisa de algodón",
+    "inventarioProducto": 100,
+    "precioProducto": 85000
+  },
+  {
+    "codigoProducto": "2",
+    "nombreProducto": "Pantalón vaquero",
+    "inventarioProducto": 80,
+    "precioProducto": 129000
+  },
+  {
+    "codigoProducto": "3",
+    "nombreProducto": "Zapatos de cuero",
+    "inventarioProducto": 50,
+    "precioProducto": 179950
+  },
+  {
+    "codigoProducto": "4",
+    "nombreProducto": "Bufanda de lana",
+    "inventarioProducto": 120,
+    "precioProducto": 62000
+  },
+  {
+    "codigoProducto": "5",
+    "nombreProducto": "Gorra deportiva",
+    "inventarioProducto": 200,
+    "precioProducto": 48000
+  },
+  {
+    "codigoProducto": "6",
+    "nombreProducto": "Reloj de pulsera",
+    "inventarioProducto": 60,
+    "precioProducto": 398000
+  },
+  {
+    "codigoProducto": "7",
+    "nombreProducto": "Mochila resistente",
+    "inventarioProducto": 30,
+    "precioProducto": 179000
+  },
+  {
+    "codigoProducto": "8",
+    "nombreProducto": "Libreta de notas",
+    "inventarioProducto": 150,
+    "precioProducto": 22500
+  },
+  {
+    "codigoProducto": "9",
+    "nombreProducto": "Lápiz mecánico",
+    "inventarioProducto": 250,
+    "precioProducto": 8500
+  },
+  {
+    "codigoProducto": "10",
+    "nombreProducto": "Dragon",
+    "inventarioProducto": 110,
+    "precioProducto": 100000
+  }
+]
